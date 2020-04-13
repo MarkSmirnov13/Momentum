@@ -2,6 +2,8 @@
 
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1bea4ea2c2ef42a9a39ffde4c081dbd9)](https://app.codacy.com/manual/MarkSmirnov13/Momentum?utm_source=github.com&utm_medium=referral&utm_content=MarkSmirnov13/Momentum&utm_campaign=Badge_Grade_Dashboard)
+
 ## How to install
 
 ### Create VK Mini App with gh-pages deploy
