@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.100c1523.chunk.css",
+    "main.js": "/static/js/main.e55b35df.chunk.js",
+    "main.js.map": "/static/js/main.e55b35df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18615233.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18615233.js.map",
+    "static/css/2.551d3f2e.chunk.css": "/static/css/2.551d3f2e.chunk.css",
+    "static/js/2.1650352d.chunk.js": "/static/js/2.1650352d.chunk.js",
+    "static/js/2.1650352d.chunk.js.map": "/static/js/2.1650352d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d4e299840a0a6811ad0f3d34ac550238.js": "/precache-manifest.d4e299840a0a6811ad0f3d34ac550238.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.551d3f2e.chunk.css.map": "/static/css/2.551d3f2e.chunk.css.map",
+    "static/css/main.100c1523.chunk.css.map": "/static/css/main.100c1523.chunk.css.map",
+    "static/js/2.1650352d.chunk.js.LICENSE.txt": "/static/js/2.1650352d.chunk.js.LICENSE.txt",
+    "static/media/EventCardExample.css": "/static/media/violet-gradient-example.a57be422.png",
+    "static/media/EventCardBlueGradient.css": "/static/media/blue-gradient.aec90375.jpg",
+    "static/media/EventCardRedGradient.css": "/static/media/red-gradient.e5917570.jpg",
+    "static/media/EventCardVioletGradient.css": "/static/media/violet-gradient.16e7ac8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18615233.js",
+    "static/css/2.551d3f2e.chunk.css",
+    "static/js/2.1650352d.chunk.js",
+    "static/css/main.100c1523.chunk.css",
+    "static/js/main.e55b35df.chunk.js"
+  ]
+}
