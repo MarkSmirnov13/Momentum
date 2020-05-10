@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Momentum/static/css/main.d65fc576.chunk.css",
-    "main.js": "/Momentum/static/js/main.006698f0.chunk.js",
-    "main.js.map": "/Momentum/static/js/main.006698f0.chunk.js.map",
+    "main.js": "/Momentum/static/js/main.a824e2aa.chunk.js",
+    "main.js.map": "/Momentum/static/js/main.a824e2aa.chunk.js.map",
     "runtime-main.js": "/Momentum/static/js/runtime-main.cd8320be.js",
     "runtime-main.js.map": "/Momentum/static/js/runtime-main.cd8320be.js.map",
     "static/css/2.47f050ad.chunk.css": "/Momentum/static/css/2.47f050ad.chunk.css",
-    "static/js/2.d699709d.chunk.js": "/Momentum/static/js/2.d699709d.chunk.js",
-    "static/js/2.d699709d.chunk.js.map": "/Momentum/static/js/2.d699709d.chunk.js.map",
+    "static/js/2.4217b754.chunk.js": "/Momentum/static/js/2.4217b754.chunk.js",
+    "static/js/2.4217b754.chunk.js.map": "/Momentum/static/js/2.4217b754.chunk.js.map",
     "index.html": "/Momentum/index.html",
-    "precache-manifest.6b213ad7373703339a9d206d8ddbfc5f.js": "/Momentum/precache-manifest.6b213ad7373703339a9d206d8ddbfc5f.js",
+    "precache-manifest.e0e0f1c1e61d8a92b45581c1fc0b9819.js": "/Momentum/precache-manifest.e0e0f1c1e61d8a92b45581c1fc0b9819.js",
     "service-worker.js": "/Momentum/service-worker.js",
     "static/css/2.47f050ad.chunk.css.map": "/Momentum/static/css/2.47f050ad.chunk.css.map",
     "static/css/main.d65fc576.chunk.css.map": "/Momentum/static/css/main.d65fc576.chunk.css.map",
-    "static/js/2.d699709d.chunk.js.LICENSE.txt": "/Momentum/static/js/2.d699709d.chunk.js.LICENSE.txt"
+    "static/js/2.4217b754.chunk.js.LICENSE.txt": "/Momentum/static/js/2.4217b754.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd8320be.js",
     "static/css/2.47f050ad.chunk.css",
-    "static/js/2.d699709d.chunk.js",
+    "static/js/2.4217b754.chunk.js",
     "static/css/main.d65fc576.chunk.css",
-    "static/js/main.006698f0.chunk.js"
+    "static/js/main.a824e2aa.chunk.js"
   ]
 }
