@@ -1,29 +1,25 @@
 {
   "files": {
-    "main.css": "/Momentum/static/css/main.b29b02a7.chunk.css",
-    "main.js": "/Momentum/static/js/main.cfc23b49.chunk.js",
-    "main.js.map": "/Momentum/static/js/main.cfc23b49.chunk.js.map",
+    "main.css": "/Momentum/static/css/main.a281ed17.chunk.css",
+    "main.js": "/Momentum/static/js/main.4f94ef06.chunk.js",
+    "main.js.map": "/Momentum/static/js/main.4f94ef06.chunk.js.map",
     "runtime-main.js": "/Momentum/static/js/runtime-main.cd8320be.js",
     "runtime-main.js.map": "/Momentum/static/js/runtime-main.cd8320be.js.map",
     "static/css/2.47f050ad.chunk.css": "/Momentum/static/css/2.47f050ad.chunk.css",
-    "static/js/2.71aab8ed.chunk.js": "/Momentum/static/js/2.71aab8ed.chunk.js",
-    "static/js/2.71aab8ed.chunk.js.map": "/Momentum/static/js/2.71aab8ed.chunk.js.map",
+    "static/js/2.2d542aa1.chunk.js": "/Momentum/static/js/2.2d542aa1.chunk.js",
+    "static/js/2.2d542aa1.chunk.js.map": "/Momentum/static/js/2.2d542aa1.chunk.js.map",
     "index.html": "/Momentum/index.html",
-    "precache-manifest.f35ef7756cb4b8ce716a70166ae716ad.js": "/Momentum/precache-manifest.f35ef7756cb4b8ce716a70166ae716ad.js",
+    "precache-manifest.62d6ff17dfb10d2e2b847f7c3cf57a13.js": "/Momentum/precache-manifest.62d6ff17dfb10d2e2b847f7c3cf57a13.js",
     "service-worker.js": "/Momentum/service-worker.js",
     "static/css/2.47f050ad.chunk.css.map": "/Momentum/static/css/2.47f050ad.chunk.css.map",
-    "static/css/main.b29b02a7.chunk.css.map": "/Momentum/static/css/main.b29b02a7.chunk.css.map",
-    "static/js/2.71aab8ed.chunk.js.LICENSE.txt": "/Momentum/static/js/2.71aab8ed.chunk.js.LICENSE.txt",
-    "static/media/EditEvent.css": "/Momentum/static/media/violet-gradient-example.a57be422.png",
-    "static/media/EventCardBlueGradient.css": "/Momentum/static/media/blue-gradient.aec90375.jpg",
-    "static/media/EventCardRedGradient.css": "/Momentum/static/media/red-gradient.e5917570.jpg",
-    "static/media/EventCardVioletGradient.css": "/Momentum/static/media/violet-gradient.16e7ac8e.jpg"
+    "static/css/main.a281ed17.chunk.css.map": "/Momentum/static/css/main.a281ed17.chunk.css.map",
+    "static/js/2.2d542aa1.chunk.js.LICENSE.txt": "/Momentum/static/js/2.2d542aa1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd8320be.js",
     "static/css/2.47f050ad.chunk.css",
-    "static/js/2.71aab8ed.chunk.js",
-    "static/css/main.b29b02a7.chunk.css",
-    "static/js/main.cfc23b49.chunk.js"
+    "static/js/2.2d542aa1.chunk.js",
+    "static/css/main.a281ed17.chunk.css",
+    "static/js/main.4f94ef06.chunk.js"
   ]
 }
